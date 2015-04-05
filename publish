@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Automated Publish"
+
+git add .
+
+git commit -m "automated publish from C9"
+
+git push cestaberous_github_io master
