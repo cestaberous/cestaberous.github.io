@@ -2,13 +2,13 @@ body {
    background: #B2B2B2; 
 }
 
-div header-fixed {
+div header {
     position:fixed;
     top:0px;
     margin:auto;
     z-index:100000;
     width:100%;
-    background: #666666;
+    background: #FFFFFF;
 }
 
 div header {
