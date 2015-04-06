@@ -12,6 +12,7 @@ document.write('<head>\
 \
   <nav>\
     <ul>\
+      <li><a href="/">Home</a></li>\
       <li><a href="/mods">Mods</a></li>\
       <li><a href="/serverinfo">Server Information</a></li>\
       <li><a href="/contact">Contact</a></li>\
