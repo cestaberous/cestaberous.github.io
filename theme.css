@@ -84,3 +84,9 @@ body {
 footer {
   background: #D5D5CD;
 }
+
+codeblock {
+  font-family: "Lucida Console", Monaco, monospace;
+  background: #B2B2B2;
+  color: #000000;
+}
