@@ -1,6 +1,7 @@
 document.write('\
 <style media="screen" type="text/css">\
 codeblock {\
+  display: block;\
   font-family: "Lucida Console", Monaco, monospace;\
   background: #B2B2B2;\
   color: #000000;\
